@@ -57,7 +57,7 @@ To update to the latest release, open the Settings app, go to Update & Securit
 ✔️ If you'd like to have more control over OS updates, check out these [newly enabled Update policies.](#improved-update-restart-detection-and-notifications) <br>
 ✔️ If you need to make your organization's apps available on the company store via the Microsoft Store, but want to only allow access to your organization's apps and not the full store, [set this policy.](#use-only-private-store-apps-for-microsoft-store) <br>
 ✔️ If you'd like to know the free storage space, SSID or BSSID of your HoloLens devices check out these [reporting CSPs.](#csp-changes-for-reporting-hololens-details) <br>
-✔️ If you'd like to use WDAC to block apps or processes from launching, but also need to use your own line of bushiness apps, you can now [allow LOB in your WDAC policy](#use-wdac-and-lob-apps).
+✔️ If you'd like to use WDAC to block apps or processes from launching, but also need to use your own line of business apps, you can now [allow LOB in your WDAC policy](#use-wdac-and-lob-apps).
 
 ### Moving Platform Mode
 
@@ -246,7 +246,7 @@ This information can be found later in the [app deployment store for business pa
 
 ### Use WDAC and LOB apps
 
-You can now use WDAC to block apps or processes from launching and continue to use your own line of bushiness apps. you can now allow them in your WDAC policy. Using this policy involves running an extra line of code in PowerShell when creating your WDAC policy. [Review the steps here.](/mem/intune/configuration/custom-profile-hololens)
+You can now use WDAC to block apps or processes from launching and continue to use your own line of business apps. you can now allow them in your WDAC policy. Using this policy involves running an extra line of code in PowerShell when creating your WDAC policy. [Review the steps here.](/mem/intune/configuration/custom-profile-hololens)
 
 #### Overview to try your own apps while using WDAC to block others
 
